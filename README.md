@@ -6,5 +6,5 @@
 ## 
 ###
 <p align="center">
-<img src="https://6a6f-job-hunt-bvzy1-1259590017.tcb.qcloud.la/adForGithub/jobhunt-javaguide.png" style="margin: 0 auto;width:400px"/>
+<img src="https://6a6f-job-hunt-bvzy1-1259590017.tcb.qcloud.la/adForGithub/jobhunt-javaguide.png" style="margin: 0 auto;width:500;height:auto"/>
 </p>
